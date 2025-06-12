@@ -2,7 +2,7 @@
 
 // Function definition
 void hello() {
-    printf("GeeksforGeeks");
+    printf("GeeksforGeeks\n");
 }
 int main() {
 
